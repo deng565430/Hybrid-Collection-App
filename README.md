@@ -1,5 +1,5 @@
-# Hybrid-App-Open-Source-Project
-Hybrid App群(498173484)开源项目
+# Hybrid-Collection-App
+Hybrid App群(`498173484`)开源项目
 
 ### 初步预想
 开发类似于大杂烩一样的APP，所有接口都使用开源的api接口，例如oschina之类的接口，用户可以查看不同的社区，可以随意切换社区，查找资料，阅读文章
